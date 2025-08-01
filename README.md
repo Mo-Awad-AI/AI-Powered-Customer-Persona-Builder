@@ -19,4 +19,4 @@ Upload your CRM, reviews, or social data — this tool uses GPT and clustering a
 ---
 
 ## 🖼️ Preview
-![Persona Map Screenshot](assets/persona-map.png)
+https://github.com/Mo-Awad-AI/AI-Powered-Customer-Persona-Builder/blob/7451a0c4a494a54c7df839b448529f24903c68e6/AI-Powered-Customer-Persona-Builder.png
